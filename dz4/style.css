@@ -1,0 +1,19 @@
+.card {
+    width: 250px;
+    padding: 10px;
+    border: 1px solid;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.wrapper{
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.btn {
+    color: hotpink;
+}
